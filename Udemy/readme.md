@@ -1,4 +1,6 @@
-O que você aprenderá
+Listando conteúdos do curso!
+
+
 Tudo que vc precisa saber para construir aplicações modernas para Web
 Criar aplicações REAIS usando as mais modernas tecnologias do mercado
 Últimos recursos de HTML, CSS, Javascript e vários frameworks
@@ -25,4 +27,4 @@ Aprenda as principais tecnologias da web nas últimas versões
 Desenvolver uma Aplicação com Angular 9
 Os principais conceitos do Angular 9: Componentes, Diretivas, Pipes, Services e muito mais
 Aprender Angular na Prática de forma muito objetiva
-Desenvolvimento Web
+Desenvolvimento Web.
