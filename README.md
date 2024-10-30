@@ -1,5 +1,5 @@
 Listando conteúdos do curso!
-
+100% update
 
 Tudo que vc precisa saber para construir aplicações modernas para Web
 Criar aplicações REAIS usando as mais modernas tecnologias do mercado
